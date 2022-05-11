@@ -24,6 +24,18 @@
   color: white;
 }
 
+.App{
+  border: solid 1px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: rgb(243,243,243);
+}
+h4{
+   border: solid 1px;
+   margin-top: 0px;
+   
+}
+
 .App-link {
   color: #61dafb;
 }
